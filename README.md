@@ -4,9 +4,23 @@ This is an example project to use Terraform to deploy multple AKS clusters with 
 
 ## Installation
 
+Clone locally and open with VS Code.
+
+Install 'Azure Terraform' extension.
 
 ## Usage
 
+Open Command Palette and run the following:
+
+```
+Azure Terraform: Init
+```
+```
+Azure Terraform: Plan
+```
+```
+Azure Terraform: Apply
+```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
